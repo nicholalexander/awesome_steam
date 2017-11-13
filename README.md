@@ -12,3 +12,7 @@ If you have an idea, fork the repository, create a branch, open a pull request! 
 # Github
 
 * [Github for Teachers](http://bsk.education/pd/FrontEndWebDesign/Github.html)
+
+# Computer Science Units
+
+* [Computer Science for All - NYC DOE](http://blueprint.cs4all.nyc/units/)
